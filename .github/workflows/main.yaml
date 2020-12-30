@@ -7,7 +7,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - id: foo
-      uses: zkamvar/glowing-spork@v2.1
+      uses: zkamvar/glowing-spork@v2.2
       with:
         who-to-greet: 'Zhian?'
         push: false
