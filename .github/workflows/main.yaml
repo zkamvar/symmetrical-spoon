@@ -10,6 +10,6 @@ jobs:
       uses: zkamvar/glowing-spork@v2.3
       with:
         who-to-greet: 'Zhian?'
-        push: false
+        push: true
     - run: echo random-number ${{ steps.foo.outputs.random-number }} 
       shell: bash
