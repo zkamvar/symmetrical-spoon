@@ -8,3 +8,9 @@ Author: Zhian N. Kamvar <zkamvar@gmail.com>
 Date:   Wed Dec 30 09:40:37 2020 -0800
 
     no pushing!
+
+commit 77aac52c539390b1794b392eb8ee8c71b7447e23
+Author: Zhian N. Kamvar <zkamvar@gmail.com>
+Date:   Wed Dec 30 09:55:28 2020 -0800
+
+    truth in pushing
